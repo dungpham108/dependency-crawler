@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "server.js",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@octokit/rest": "^22.0.0",
     "accepts": "^2.0.0",
