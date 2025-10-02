@@ -20,7 +20,7 @@ Công cụ:
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fdependency-manager.onrender.com&logo=render&style=flat-square" />
 </a>
 
-👉 Demo: [Dependency Crawler](https://dependency-crawler.onrender.com)
+👉 Demo: [Dependency Crawler]([https://dependency-crawler.onrender.com](https://dependency-crawler-dxse.vercel.app))
 
 ---
 
